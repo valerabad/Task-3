@@ -1,0 +1,245 @@
+Incorrect points is {X=107,Y=22}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Incorrect points is {X=52,Y=109}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Incorrect points is {X=60,Y=102}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Incorrect points is {X=106,Y=73}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Incorrect points is {X=106,Y=95}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Incorrect points is {X=66,Y=100}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Date 1/18/2017 6:32:29 PM {X=36,Y=97}
+Date 1/18/2017 6:32:29 PM {X=52,Y=72}
+Date 1/18/2017 6:32:29 PM {X=53,Y=68}
+Incorrect points is {X=106,Y=1}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Date 1/18/2017 6:32:29 PM {X=36,Y=97}
+Date 1/18/2017 6:32:29 PM {X=52,Y=72}
+Date 1/18/2017 6:32:29 PM {X=53,Y=68}
+Date 1/18/2017 6:32:29 PM {X=16,Y=77}
+Date 1/18/2017 6:32:29 PM {X=67,Y=21}
+Incorrect points is {X=11,Y=102}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Date 1/18/2017 6:32:29 PM {X=36,Y=97}
+Date 1/18/2017 6:32:29 PM {X=52,Y=72}
+Date 1/18/2017 6:32:29 PM {X=53,Y=68}
+Date 1/18/2017 6:32:29 PM {X=16,Y=77}
+Date 1/18/2017 6:32:29 PM {X=67,Y=21}
+Incorrect points is {X=111,Y=11}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Date 1/18/2017 6:32:29 PM {X=36,Y=97}
+Date 1/18/2017 6:32:29 PM {X=52,Y=72}
+Date 1/18/2017 6:32:29 PM {X=53,Y=68}
+Date 1/18/2017 6:32:29 PM {X=16,Y=77}
+Date 1/18/2017 6:32:29 PM {X=67,Y=21}
+Incorrect points is {X=116,Y=45}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Date 1/18/2017 6:32:29 PM {X=36,Y=97}
+Date 1/18/2017 6:32:29 PM {X=52,Y=72}
+Date 1/18/2017 6:32:29 PM {X=53,Y=68}
+Date 1/18/2017 6:32:29 PM {X=16,Y=77}
+Date 1/18/2017 6:32:29 PM {X=67,Y=21}
+Date 1/18/2017 6:32:29 PM {X=88,Y=88}
+Incorrect points is {X=117,Y=88}
+Movement before going abroad:
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=1,Y=1}
+Date 1/18/2017 6:32:29 PM {X=27,Y=6}
+Date 1/18/2017 6:32:29 PM {X=20,Y=62}
+Date 1/18/2017 6:32:29 PM {X=3,Y=80}
+Date 1/18/2017 6:32:29 PM {X=62,Y=55}
+Date 1/18/2017 6:32:29 PM {X=80,Y=44}
+Date 1/18/2017 6:32:29 PM {X=24,Y=94}
+Date 1/18/2017 6:32:29 PM {X=65,Y=9}
+Date 1/18/2017 6:32:29 PM {X=14,Y=60}
+Date 1/18/2017 6:32:29 PM {X=94,Y=95}
+Date 1/18/2017 6:32:29 PM {X=36,Y=97}
+Date 1/18/2017 6:32:29 PM {X=52,Y=72}
+Date 1/18/2017 6:32:29 PM {X=53,Y=68}
+Date 1/18/2017 6:32:29 PM {X=16,Y=77}
+Date 1/18/2017 6:32:29 PM {X=67,Y=21}
+Date 1/18/2017 6:32:29 PM {X=88,Y=88}
+Incorrect points is {X=58,Y=108}
+Movement before going abroad:
+Incorrect points is {X=110,Y=8}
+Movement before going abroad:
+Date 1/18/2017 6:34:21 PM {X=1,Y=1}
+Incorrect points is {X=55,Y=102}
+Movement before going abroad:
+Date 1/18/2017 6:34:21 PM {X=1,Y=1}
+Date 1/18/2017 6:34:21 PM {X=47,Y=70}
+Date 1/18/2017 6:34:21 PM {X=63,Y=4}
+Date 1/18/2017 6:34:21 PM {X=88,Y=85}
+Date 1/18/2017 6:34:21 PM {X=24,Y=87}
+Date 1/18/2017 6:34:21 PM {X=27,Y=67}
+Date 1/18/2017 6:34:21 PM {X=39,Y=19}
+Incorrect points is {X=64,Y=115}
+Movement before going abroad:
+Date 1/18/2017 6:34:21 PM {X=1,Y=1}
+Date 1/18/2017 6:34:21 PM {X=47,Y=70}
+Date 1/18/2017 6:34:21 PM {X=63,Y=4}
+Date 1/18/2017 6:34:21 PM {X=88,Y=85}
+Date 1/18/2017 6:34:21 PM {X=24,Y=87}
+Date 1/18/2017 6:34:21 PM {X=27,Y=67}
+Date 1/18/2017 6:34:21 PM {X=39,Y=19}
+Incorrect points is {X=103,Y=85}
+Movement before going abroad:
+Date 1/18/2017 6:34:21 PM {X=1,Y=1}
+Date 1/18/2017 6:34:21 PM {X=47,Y=70}
+Date 1/18/2017 6:34:21 PM {X=63,Y=4}
+Date 1/18/2017 6:34:21 PM {X=88,Y=85}
+Date 1/18/2017 6:34:21 PM {X=24,Y=87}
+Date 1/18/2017 6:34:21 PM {X=27,Y=67}
+Date 1/18/2017 6:34:21 PM {X=39,Y=19}
+Incorrect points is {X=108,Y=45}
+Movement before going abroad:
+Date 1/18/2017 6:34:21 PM {X=1,Y=1}
+Date 1/18/2017 6:34:21 PM {X=47,Y=70}
+Date 1/18/2017 6:34:21 PM {X=63,Y=4}
+Date 1/18/2017 6:34:21 PM {X=88,Y=85}
+Date 1/18/2017 6:34:21 PM {X=24,Y=87}
+Date 1/18/2017 6:34:21 PM {X=27,Y=67}
+Date 1/18/2017 6:34:21 PM {X=39,Y=19}
+Date 1/18/2017 6:34:21 PM {X=0,Y=94}
+Date 1/18/2017 6:34:21 PM {X=49,Y=90}
+Date 1/18/2017 6:34:21 PM {X=88,Y=24}
+Date 1/18/2017 6:34:21 PM {X=40,Y=15}
+Date 1/18/2017 6:34:21 PM {X=93,Y=66}
+Date 1/18/2017 6:34:21 PM {X=55,Y=60}
+Date 1/18/2017 6:34:21 PM {X=24,Y=79}
+Incorrect points is {X=40,Y=112}
+Movement before going abroad:
+Date 1/18/2017 6:34:21 PM {X=1,Y=1}
+Date 1/18/2017 6:34:21 PM {X=47,Y=70}
+Date 1/18/2017 6:34:21 PM {X=63,Y=4}
+Date 1/18/2017 6:34:21 PM {X=88,Y=85}
+Date 1/18/2017 6:34:21 PM {X=24,Y=87}
+Date 1/18/2017 6:34:21 PM {X=27,Y=67}
+Date 1/18/2017 6:34:21 PM {X=39,Y=19}
+Date 1/18/2017 6:34:21 PM {X=0,Y=94}
+Date 1/18/2017 6:34:21 PM {X=49,Y=90}
+Date 1/18/2017 6:34:21 PM {X=88,Y=24}
+Date 1/18/2017 6:34:21 PM {X=40,Y=15}
+Date 1/18/2017 6:34:21 PM {X=93,Y=66}
+Date 1/18/2017 6:34:21 PM {X=55,Y=60}
+Date 1/18/2017 6:34:21 PM {X=24,Y=79}
+Date 1/18/2017 6:34:21 PM {X=30,Y=84}
+Date 1/18/2017 6:34:21 PM {X=78,Y=91}
+Date 1/18/2017 6:34:21 PM {X=82,Y=88}
+Incorrect points is {X=71,Y=105}
+Movement before going abroad:
+Date 1/18/2017 6:34:21 PM {X=1,Y=1}
+Date 1/18/2017 6:34:21 PM {X=47,Y=70}
+Date 1/18/2017 6:34:21 PM {X=63,Y=4}
+Date 1/18/2017 6:34:21 PM {X=88,Y=85}
+Date 1/18/2017 6:34:21 PM {X=24,Y=87}
+Date 1/18/2017 6:34:21 PM {X=27,Y=67}
+Date 1/18/2017 6:34:21 PM {X=39,Y=19}
+Date 1/18/2017 6:34:21 PM {X=0,Y=94}
+Date 1/18/2017 6:34:21 PM {X=49,Y=90}
+Date 1/18/2017 6:34:21 PM {X=88,Y=24}
+Date 1/18/2017 6:34:21 PM {X=40,Y=15}
+Date 1/18/2017 6:34:21 PM {X=93,Y=66}
+Date 1/18/2017 6:34:21 PM {X=55,Y=60}
+Date 1/18/2017 6:34:21 PM {X=24,Y=79}
+Date 1/18/2017 6:34:21 PM {X=30,Y=84}
+Date 1/18/2017 6:34:21 PM {X=78,Y=91}
+Date 1/18/2017 6:34:21 PM {X=82,Y=88}
+Date 1/18/2017 6:34:21 PM {X=72,Y=85}
